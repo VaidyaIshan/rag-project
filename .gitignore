@@ -11,3 +11,6 @@ wheels/
 
 # ChromaDB local index
 data/chroma_db/
+
+# Secrets
+.env
